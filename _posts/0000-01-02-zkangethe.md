@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+REMEMBER: Grow at your own pace Zaria ;)
 Use the left arrow to go back!
